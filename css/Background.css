@@ -1,0 +1,12 @@
+h1 {
+    background-color: chartreuse;
+    /* color: white; */
+}
+
+* {
+    background-image: url('./image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(to left, red, yellow);
+    background: radial-gradient(red, green, yellow, grey, purple);
+}
