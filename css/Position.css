@@ -1,0 +1,47 @@
+.div1 {
+    background-color: pink;
+    width: 100%;
+    height: 200px;
+    position: static;
+    /* this is a defaul property of position */
+    top: 200px;
+    bottom: 200px;
+}
+
+.div2 {
+    background-color: blue;
+    width: 100%;
+    height: 200px;
+    position: relative;
+    top: 100px;
+    /* this will take the another card reference for changing the properties here parent is nothing but another card */
+}
+
+.div3 {
+    background-color: red;
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    top: 100px;
+    /* browser reference */
+}
+
+.div4 {
+    background-color: green;
+    width: 100%;
+    height: 200px;
+    position: fixed;
+    top: 0;
+    /* fix the position at particular point */
+}
+
+.div5 {
+    background-color: yellow;
+    width: 100%;
+    height: 200px;
+    position: sticky;
+    top: 100px;
+    /* sticky position will be fixed even when the scroll bar is scrolled 
+    it will move up to certain position then it will be fixed
+    */
+}
