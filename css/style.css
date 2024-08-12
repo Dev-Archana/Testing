@@ -1,0 +1,44 @@
+h1 {
+    color: brown;
+}
+
+/* 
+element_name
+{
+    property: value;
+}
+*/
+#p {
+    color: blue;
+}
+
+/* 
+#id_name{
+property:value;
+}
+*/
+.small {
+    font-size: 10px;
+}
+
+/* 
+.class_name{
+property:value;
+}
+*/
+* {
+    color: crimson;
+}
+
+p,
+h1,
+h2 {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+}
+
+/* 
+element_1,element_2,element_3{
+properties:value;
+}
+*/

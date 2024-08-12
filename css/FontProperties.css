@@ -1,0 +1,33 @@
+/* p { */
+/* color: crimson; */
+/* to give color to the given text */
+/* font-size: 20px; */
+/* to make the font size 20px */
+/* font-weight: bolder; */
+/* to make the font bold */
+/* font-family: Arial, Helvetica, sans-serif; */
+/* to change the font family */
+/* font-variant: small-caps; */
+/* to make the font text in small caps */
+/* } */
+
+/* to change the color, font size, weight, family, and variant of the text within a specific paragraph */
+/* text properties */
+/* p { */
+/* text-align: center; */
+/* aligning text here we have 4 options : left,right,center,justify */
+/* text-decoration: overline; */
+/* this is used to decorate the text here we have 3 types : underline ,overline,linethrough */
+/* text-transform: lowercase; */
+/* capitalize the first letter of each word in the text : options : uppercase , lowercase and capitalize*/
+/* text-shadow: 2px 2px 3px rgb(0, 17, 255); */
+/* syntax: x_axis  y_axis  blur_ratio  color_code*/
+/* text-indent: 50px; */
+/* to indent the text from the left side of the paragraph */
+/* line-height: 20px; */
+/* to set the line height to 20px */
+/* word-spacing: 120px; */
+/* to add space between words */
+/* letter-spacing: 120px; */
+/* to add space between letters */
+/* } */

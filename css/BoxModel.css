@@ -1,0 +1,9 @@
+p {
+    border: 1px solid red;
+    /* syntax: thickness style color  */
+    padding: 20px;
+    /* if you want to give some space between border and the content then we have to use padding */
+    margin-top: 200px;
+    margin-left: 150px;
+    /* if you want to give some space between border and outline then we have to use margin */
+}
